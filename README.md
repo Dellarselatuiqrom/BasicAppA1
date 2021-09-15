@@ -1,1 +1,1 @@
-#BasicAppA1is a project APLAS POLINEMA, from course mobile programming.
+#BasicAppA1 is a project APLAS POLINEMA, from course mobile programming.
